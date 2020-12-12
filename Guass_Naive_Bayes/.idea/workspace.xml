@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b7a537d-23ff-4810-a675-5dbff95d4f73" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../assignment1/A1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment1/A1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment2.md" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment2/A2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment2/A2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment2/my_DT.py" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment2/my_DT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/A3.py" beforeDir="false" afterPath="$PROJECT_DIR$/A3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FinallyGNBdone.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/FinallyGNBdone.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/.ipynb_checkpoints/MyKNN-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/.ipynb_checkpoints/MyKNN-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/.ipynb_checkpoints/libraryKNN-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/.ipynb_checkpoints/libraryKNN-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment4/MyKNN.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment4/MyKNN.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment5/.ipynb_checkpoints/MyAdaBoost2-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment5/.ipynb_checkpoints/MyAdaBoost2-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment5/LibraryAdaBoost.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment5/LibraryAdaBoost.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment5/MyAdaBoost2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment5/MyAdaBoost2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment6/MyKMeansV2_0.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment6/MyKMeansV2_0.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment6/my_KMeans.py" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment6/my_KMeans.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment7/.ipynb_checkpoints/Library_PCA-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment7/.ipynb_checkpoints/MY_PCA_V2-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment7/.ipynb_checkpoints/MY_PCA_V2-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment7/Library_PCA.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment7/MY_PCA_V1.0.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment7/MY_PCA_V1.0.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment7/MY_PCA_V2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment7/MY_PCA_V2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment8/A8.py" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment8/A8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assignment8/my_evaluation.py" beforeDir="false" afterPath="$PROJECT_DIR$/../assignment8/my_evaluation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/Iris_test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../data/Iris_test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/Iris_train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../data/Iris_train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/audiology_test" beforeDir="false" afterPath="$PROJECT_DIR$/../data/audiology_test" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/audiology_train" beforeDir="false" afterPath="$PROJECT_DIR$/../data/audiology_train" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data/job_train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../data/job_train.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1hjKpkk0jjgsMYqKgT5RBbjNxcy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b7a537d-23ff-4810-a675-5dbff95d4f73" name="Default Changelist" comment="" />
+      <created>1600519265234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600519265234</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="774" y="300" width="424" height="520" key="FileChooserDialogImpl" timestamp="1603809154070">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="774" y="300" width="424" height="520" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1603809154070" />
+  </component>
+</project>
